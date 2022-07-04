@@ -48,3 +48,13 @@ git shortlog
 ```
 git show <git-object>
 ```
+
+### Reset repository to specific commit
+```
+git reset < --soft | --mixed | --hard > <commit-id>
+```
+
+### Add named remote repository to project
+```
+git remote add <remote-repo-name> <remote-repo-url>
+```
