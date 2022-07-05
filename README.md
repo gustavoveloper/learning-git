@@ -58,3 +58,8 @@ git reset < --soft | --mixed | --hard > <commit-id>
 ```
 git remote add <remote-repo-name> <remote-repo-url>
 ```
+
+### Clone remote repository to localhost
+```
+git clone <remote-repo-url> <project-name-or-path>
+```
