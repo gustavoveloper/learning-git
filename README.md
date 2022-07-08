@@ -63,3 +63,8 @@ git remote add <remote-repo-name> <remote-repo-url>
 ```
 git clone <remote-repo-url> <project-name-or-path>
 ```
+
+### Create new branch
+```
+git branch <new-branch-name>
+```
