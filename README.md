@@ -68,3 +68,8 @@ git clone <remote-repo-url> <project-name-or-path>
 ```
 git branch <new-branch-name>
 ```
+
+### Switch to another branch
+```
+git checkout <branch-name>
+```
